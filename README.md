@@ -1,2 +1,2 @@
 # IITM
-My IITM notes
+My IITM notes/resources
